@@ -1,0 +1,94 @@
+﻿nav {
+    
+    background: #99CCFF;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: large;
+    text-align: center;
+    position: sticky;   
+    top: 0;
+}
+h1 {
+    text-align:center;
+    font-family: 'David Libre';
+    font-size: x-large;
+}
+
+c {
+    font-family: 'Times New Roman';
+    color: goldenrod;
+    display: inline-block;
+    list-style: none;
+    width: auto;
+    height: 30px;
+    background-color: #2B4B6F;
+    opacity: .6;
+    line-height: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+}
+a {
+    font-family: 'Times New Roman';
+    color: goldenrod;
+    display: inline-block;
+    list-style: none;
+    width: 200px;
+    height: 30px;
+    background-color: #2B4B6F;
+    opacity: .6;
+    line-height: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+}
+    a:hover {
+        background-color: #99CC99;
+        color: blue;
+    }
+    c:hover {
+        background-color: #99CC99;
+        color: blue;
+    }
+  
+.maincontainer {
+    text-align: center;  
+}
+.container {    
+    background: #99CCFF;
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+    display: inline-block;
+    color: white;
+    max-width: inherit;
+    overflow: auto;
+    margin: auto;
+    margin-bottom: auto;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    }
+.desc {
+    padding: 15px;
+    text-align: center;
+   
+}
+body {
+    background: #99CCFF;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+footer {
+    text-align: center;
+    background: #000000;
+    background: rgba(0,0,0,0.8);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    color: white;
+}
